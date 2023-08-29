@@ -11,10 +11,10 @@ const USER_CONFIG = {
 USE_PASSAGE: 'push-deer',
   
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx852c7407a4e03563',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: 'e21e64033695295ddf7f9d9028be8897',
 
   PROVINCE: '广东',
   CITY: '惠州',
@@ -26,7 +26,7 @@ USE_PASSAGE: 'push-deer',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'wx852c7407a4e03563',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '0001',
+      useTemplateId: 'ouj1E6besAyRWwsHPqrIPsIxBHgA',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
@@ -60,7 +60,7 @@ USE_PASSAGE: 'push-deer',
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'ouj1E6besAyRWwsHPqrIPsIxBHgA',
     }
   ],
 
